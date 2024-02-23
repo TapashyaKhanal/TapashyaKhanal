@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tapashya khanal</h1>
 <h3 align="center">A passionate Quality Analyst</h3>
-<img src="https://img.freepik.com/free-vector/isometric-iso-certification-concept_23-2148688048.jpg?size=626&ext=jpg&ga=GA1.1.230145164.1708244718&semt=ais alt"QA"/>
+<img src="https://img.freepik.com/free-vector/isometric-iso-certification-concept_23-2148688048.jpg?size=626&ext=jpg&ga=GA1.1.230145164.1708244718&semt=ais alt"QA" width="50" height="100"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapashyakhanal&label=Profile%20views&color=0e75b6&style=flat" alt="tapashyakhanal" /> </p>
 
