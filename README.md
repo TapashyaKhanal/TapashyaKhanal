@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tapashya khanal</h1>
 <h3 align="center">A passionate data Analyst</h3>
-<img src="https: align="rhttps://media.istockphoto.com/id/1407983911/photo/forex-diagrams-and-stock-market-rising-lines-with-numbers.jpg?s=612x612&w=0&k=20&c=zas1h6LR6v2iCvE7SWnVoZ_s7ZSiboN45UK0d5oMWac=ight" height="250"  weidth="250"/>
-
+<p align ="right">
+  
+<img src="https://media.istockphoto.com/id/1407983911/photo/forex-diagrams-and-stock-market-rising-lines-with-numbers.jpg?s=612x612&w=0&k=20&c=zas1h6LR6v2iCvE7SWnVoZ_s7ZSiboN45UK0d5oMWac= "       height="250"  weidth="250"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapashyakhanal&label=Profile%20views&color=0e75b6&style=flat" alt="tapashyakhanal" /
 
 - 📫 How to reach me **Tapashaykhanal10@gmail.com**
