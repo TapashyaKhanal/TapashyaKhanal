@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:
 </h3>
-<p align="left"> [linkedin](https://www.linkedin.com/in/tapashya-khanal-b9a7bb1a4/)<br>
-  github ()
+<p align="left"> (https://www.linkedin.com/in/tapashya-khanal-b9a7bb1a4/)<br>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
